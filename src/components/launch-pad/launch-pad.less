@@ -1,0 +1,31 @@
+@import 'antd/lib/style/themes/default.less';
+
+.launchpad {
+  &__container {
+    width: 100%;
+  }
+
+  &__link-wrapper {
+    width: 100%;
+
+    .launchpad__item {
+      width: 100%;
+      padding: @padding-md;
+      color: @text-color;
+      border-radius: @border-radius-base;
+
+      &:hover {
+        cursor: pointer;
+        background-color: fade(@black, 10%);
+      }
+    }
+  }
+}
+
+@media (max-width: @screen-xs) {
+  .launchpad.ant-drawer-open {
+    > .ant-drawer-content-wrapper {
+      width: 90% !important;
+    }
+  }
+}

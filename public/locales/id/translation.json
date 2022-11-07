@@ -1,0 +1,51 @@
+{
+  "LABEL": {
+    "ADD": "Tambah",
+    "ARE_YOU_SURE_CONFIRMATION": "Apakah anda yakin melakukan tindakan ini?",
+    "BACK_TO_HOME": "Kembali ke Home",
+    "BACK": "Kembali",
+    "BODY": "Konten",
+    "CANCEL": "Batal",
+    "CONFIRMATION": "Konfirmasi",
+    "CREATED_AT": "Dibuat",
+    "DELETE": "Hapus",
+    "EMAIL": "Email",
+    "FAILURE": "Gagal",
+    "FORBIDDEN_DESCRIPTION": "Anda tidak mempunyai izin untuk melihat halaman ini.",
+    "FORBIDDEN_TITLE": "Oops, Anda Mengalami Sedikit Masalah!",
+    "GENDER": "Jenis Kelamin",
+    "LOGOUT": "Keluar",
+    "NAME": "Nama",
+    "NOT_FOUND_DESCRIPTION": "Kami tidak dapat menemukan halaman yang anda cari.",
+    "NOT_FOUND_TITLE": "Oh no! Halaman tidak ditemukan.",
+    "OK": "Ok",
+    "PHONE": "No. Telp",
+    "SAVE": "Simpan",
+    "SEARCH": "Cari",
+    "BOILERPLATE_WEB_TITLE": "Boilerplate Web",
+    "SUCCESS": "Success",
+    "TITLE": "Judul",
+    "UPDATED_AT": "Diupdate"
+  },
+  "PLACEHOLDER": {
+    "TYPE_NAME": "Ketik nama",
+    "SEARCH_BY_TITLE_OR_BODY": "Cari berdasarkan judul / konten",
+    "SEARCH_BY_NAME_OR_EMAIL_OR_PHONE": "Cari berdasarkan nama / email / no. telp"
+  },
+  "MENU": {
+    "DASHBOARD": "Dashboard",
+    "USERS": "Pengguna",
+    "POSTS": "Posts",
+    "ADD": "Tambah",
+    "EDIT": "Ubah",
+    "DETAIL": "Detil"
+  },
+  "MESSAGE": {
+    "REQUIRED": "{{label}} harus diisi!",
+    "EMAIL": "{{label}} tidak sesuai!",
+    "RANGE_NUMBER": "{{label}} harus diantara {{min}} dan {{max}}!",
+    "NUMBER": "{{label}} harus Angka!",
+    "MAX_LENGTH": "{{label}} tidak boleh lebih dari {{max}} karakter",
+    "ERROR_BORROWER_STATUS_REQUESTED": "Status harus Disetujui atau Ditolak!"
+  }
+}

@@ -1,0 +1,58 @@
+@import 'antd/lib/style/themes/default.less';
+
+.content-header {
+  padding: 0 28px;
+  background: #ffffff;
+
+  .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+}
+
+.user__wrapper {
+  width: 100%;
+
+  &:hover {
+    cursor: pointer;
+    color: @text-color-secondary;
+
+    .ant-typography {
+      color: @text-color-secondary;
+    }
+  }
+}
+
+.launchpad-icon {
+  display: flex;
+  img {
+    margin: auto 0;
+    height: 20px;
+    cursor: pointer;
+    margin-left: 8px;
+    transform: translateY(4px);
+    &:hover {
+      filter: invert(42%) sepia(75%) saturate(6136%) hue-rotate(202deg) brightness(101%) contrast(79%);
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .content-header__title {
+    display: none;
+  }
+}
+
+@media (max-width: @screen-sm) {
+  .content-header__title {
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width: 900px), (max-width: @screen-md) {
+  .user__full-name {
+    display: none;
+  }
+}

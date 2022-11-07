@@ -1,0 +1,51 @@
+{
+  "LABEL": {
+    "ADD": "Add",
+    "ARE_YOU_SURE_CONFIRMATION": "Are you sure to perform this action?",
+    "BACK_TO_HOME": "Back to Home",
+    "BACK": "Back",
+    "BODY": "Body",
+    "CANCEL": "Cancel",
+    "CONFIRMATION": "Confirmation",
+    "CREATED_AT": "Created at",
+    "DELETE": "Delete",
+    "EMAIL": "Email",
+    "FAILURE": "Failure",
+    "FORBIDDEN_DESCRIPTION": "You do not have permission to view this page.",
+    "FORBIDDEN_TITLE": "Oops, you're having a bit of a problem!",
+    "GENDER": "Gender",
+    "LOGOUT": "Logout",
+    "NAME": "Name",
+    "NOT_FOUND_DESCRIPTION": "We can't seem to find the page you're looking for.",
+    "NOT_FOUND_TITLE": "Oh no! Page not found.",
+    "OK": "Ok",
+    "PHONE": "Phone",
+    "SAVE": "Save",
+    "SEARCH": "Search",
+    "BOILERPLATE_WEB_TITLE": "Boilerplate Web",
+    "SUCCESS": "Success",
+    "TITLE": "Title",
+    "UPDATED_AT": "Updated at"
+  },
+  "PLACEHOLDER": {
+    "TYPE_NAME": "Type name",
+    "SEARCH_BY_TITLE_OR_BODY": "Search by title / body",
+    "SEARCH_BY_NAME_OR_EMAIL_OR_PHONE": "Search by name / email / phone"
+  },
+  "MENU": {
+    "DASHBOARD": "Dashboard",
+    "USERS": "Users",
+    "POSTS": "Posts",
+    "ADD": "Add",
+    "EDIT": "Edit",
+    "DETAIL": "Detail"
+  },
+  "MESSAGE": {
+    "REQUIRED": "{{label}} must be filled!",
+    "EMAIL": "{{label}} not valid!",
+    "RANGE_NUMBER": "{{label}} must be between {{min}} and {{max}}!",
+    "NUMBER": "{{label}} must be Number!",
+    "MAX_LENGTH": "{{label}} cannot longer than {{max}} characters",
+    "ERROR_BORROWER_STATUS_REQUESTED": "Status must be Approved or Rejected!"
+  }
+}
